@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jtronge/electronjs-demo#readme",
   "devDependencies": {
     "electron": "^15.1.2"
+  },
+  "dependencies": {
+    "electron-packager": "^15.4.0"
   }
 }
